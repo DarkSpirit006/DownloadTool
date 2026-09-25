@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# yt-dlp temp and downloads
+downloads/
+.downloader-temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
